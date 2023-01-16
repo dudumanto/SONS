@@ -1,2 +1,5 @@
 # SONS
-Projeto criado com Html, JavaScript e Css
+Projeto criado com HTML, JAVASCRIPT e CSS.
+<hr>
+
+Projeto foi criado para testar a minha capacidade na linguagem JAVASCRIPT.
